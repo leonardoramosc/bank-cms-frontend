@@ -1,23 +1,2 @@
-.login-form {
-  /* max-width: 300px; */
-}
-.login-form-forgot {
-  float: right;
-}
-.ant-col-rtl .login-form-forgot {
-  float: left;
-}
-.ant-btn.login-form-button {
-  width: 100%;
-  color: white;
-  background: #d8c4ad;
-  border-color: #d8c4ad;
-  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
 
-.ant-btn.login-form-button:hover {
-  border-color: #d8c4ad;
-  color: #d8c4ad;
-  background-color: white;
-}
 
